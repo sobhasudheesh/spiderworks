@@ -2,7 +2,7 @@
     "name": "spiderworks/miniweb",
     "description": "To create a basic stucture of a website",
     "version": "1.0.0",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Sobha Sudheesh",
