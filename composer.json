@@ -9,8 +9,6 @@
             "email": "sobha@spiderworks.in"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {
         "yajra/laravel-datatables-oracle": "^9.0",
         "intervention/image": "^2.5"
