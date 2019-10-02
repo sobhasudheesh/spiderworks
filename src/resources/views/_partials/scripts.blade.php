@@ -25,5 +25,4 @@
 <script src="{{asset('miniweb/assets/plugins/jquery-validation/js/additional-methods.min.js')}}" type="text/javascript"></script>
 <script src="{{asset('miniweb/assets/plugins/jquery-confirm/jquery-confirm.min.js')}}" type="text/javascript"></script>
 <script src="{{asset('miniweb/assets/plugins/summernote/js/summernote.js')}}" type="text/javascript"></script>
-<script src="{{asset('miniweb/assets/js/jquery.imgcheckbox.js')}}" type="text/javascript"></script>
 <script src="{{asset('miniweb/assets/plugins/bootstrap-checkbox/js/bootstrap-checkbox.js')}}" type="text/javascript"></script>
