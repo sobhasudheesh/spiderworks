@@ -65,7 +65,7 @@
                 <span class="icon-thumbnail"><i class="pg-calender"></i></span>
             </li>
             <li>
-                <a href="{{route('spiderworks.miniweb.menus.edit')}}"  class="detailed">
+                <a href="{{route('spiderworks.miniweb.menus.index')}}"  class="detailed">
                     <span class="title">Manage Menu</span>
                 </a>
                 <span class="icon-thumbnail"><i class="pg-calender"></i></span>
