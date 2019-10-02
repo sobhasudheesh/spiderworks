@@ -1,7 +1,7 @@
 {
     "name": "spiderworks/miniweb",
-    "description": "To create a basic stucture of a website",
-    "version": "1.0.2",
+    "description": "To create a basic structure of a website",
+    "version": "1.0.3",
     "type": "library",
     "authors": [
         {

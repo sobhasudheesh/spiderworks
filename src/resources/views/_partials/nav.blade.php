@@ -39,7 +39,44 @@
     <!-- START SIDEBAR MENU -->
     <div class="sidebar-menu" style="margin-top: 20px;">
         <!-- BEGIN SIDEBAR MENU ITEMS-->
-        @widget('AdminMenu')
+        <ul class="menu-items">
+            <li>
+                <a href="{{route('spiderworks.miniweb.media.index')}}"  class="detailed">
+                    <span class="title">Manage Media</span>
+                </a>
+                <span class="icon-thumbnail"><i class="pg-calender"></i></span>
+            </li>
+            <li>
+                <a href="{{route('spiderworks.miniweb.types')}}"  class="detailed">
+                    <span class="title">Manage Types</span>
+                </a>
+                <span class="icon-thumbnail"><i class="pg-calender"></i></span>
+            </li>
+            <li>
+                <a href="{{route('spiderworks.miniweb.category.index')}}"  class="detailed">
+                    <span class="title">Manage Categories</span>
+                </a>
+                <span class="icon-thumbnail"><i class="pg-calender"></i></span>
+            </li>
+            <li>
+                <a href="{{route('spiderworks.miniweb.pages.index')}}"  class="detailed">
+                    <span class="title">Manage Pages</span>
+                </a>
+                <span class="icon-thumbnail"><i class="pg-calender"></i></span>
+            </li>
+            <li>
+                <a href="{{route('spiderworks.miniweb.menus.edit')}}"  class="detailed">
+                    <span class="title">Manage Menu</span>
+                </a>
+                <span class="icon-thumbnail"><i class="pg-calender"></i></span>
+            </li>
+            <li>
+                <a href="{{route('spiderworks.miniweb.frontend-pages.index')}}"  class="detailed">
+                    <span class="title">Manage Internal Pages</span>
+                </a>
+                <span class="icon-thumbnail"><i class="pg-calender"></i></span>
+            </li>
+        </ul>
 
         <div class="clearfix"></div>
     </div>
